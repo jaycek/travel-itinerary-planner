@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "destination": "Kyoto",
+    "startDate": "2024-10-25",
+    "endDate": "2024-11-15",
+    "activities": [
+      "Visit the Tokyo Tower"
+    ]
+  }
+]
